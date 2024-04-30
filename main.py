@@ -161,8 +161,8 @@ if __name__=='__main__':
     ## Create batches with Data Collator
     data_collator = DataCollatorForTokenClassification(tokenizer=tokenizer)
     ## Create dataloaders with data collator
-    train_dataloader = DataLoader(train_dataset, shuffle=True, batch_size=8, collate_fn=data_collator)#, collate_fn=data_collator
-    test_dataloader = DataLoader(test_dataset, shuffle=True, batch_size=8, collate_fn=data_collator)#, collate_fn=data_collator
+    train_dataloader = DataLoader(train_dataset, shuffle=True, batch_size=8, collate_fn=data_collator)
+    test_dataloader = DataLoader(test_dataset, shuffle=True, batch_size=8, collate_fn=data_collator)
     ## Check if we have cuda?
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print("Using", device)

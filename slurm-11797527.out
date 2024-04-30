@@ -1,0 +1,52 @@
+/data/apps/linux-centos8-cascadelake/gcc-9.3.0/anaconda3-2020.07-i7qavhiohb2uwqs4eqjeefzx3kp5jqdu/etc/profile.d/conda.csh: line 1: setenv: command not found
+/data/apps/linux-centos8-cascadelake/gcc-9.3.0/anaconda3-2020.07-i7qavhiohb2uwqs4eqjeefzx3kp5jqdu/etc/profile.d/conda.csh: line 2: setenv: command not found
+/data/apps/linux-centos8-cascadelake/gcc-9.3.0/anaconda3-2020.07-i7qavhiohb2uwqs4eqjeefzx3kp5jqdu/etc/profile.d/conda.csh: line 3: setenv: command not found
+/data/apps/linux-centos8-cascadelake/gcc-9.3.0/anaconda3-2020.07-i7qavhiohb2uwqs4eqjeefzx3kp5jqdu/etc/profile.d/conda.csh: line 4: setenv: command not found
+/data/apps/linux-centos8-cascadelake/gcc-9.3.0/anaconda3-2020.07-i7qavhiohb2uwqs4eqjeefzx3kp5jqdu/etc/profile.d/conda.csh: line 34: syntax error near unexpected token `"${1}"'
+/data/apps/linux-centos8-cascadelake/gcc-9.3.0/anaconda3-2020.07-i7qavhiohb2uwqs4eqjeefzx3kp5jqdu/etc/profile.d/conda.csh: line 34: `    switch ( "${1}" )'
+Using cuda
+ >>>>>>>>  Initializing optimizer
+Epoch 1 training:
+0it [00:00, ?it/s]0it [00:00, ?it/s]
+Traceback (most recent call last):
+  File "/home/cs601-pwang71/pwang71/ml_prj/main.py", line 122, in <module>
+    train(mymodel=BertMLP, train_dataloader=train_dataloader, lr=0.001, num_epochs=5, device=device)
+  File "/home/cs601-pwang71/pwang71/ml_prj/main.py", line 57, in train
+    output = mymodel(input_ids, attention_mask=masks)
+  File "/home/cs601-pwang71/.conda/envs/ml_final/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/cs601-pwang71/.conda/envs/ml_final/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/cs601-pwang71/pwang71/ml_prj/model.py", line 15, in forward
+    output = self.model(input_ids, attention_mask=attention_mask)
+  File "/home/cs601-pwang71/.conda/envs/ml_final/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/cs601-pwang71/.conda/envs/ml_final/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/cs601-pwang71/.conda/envs/ml_final/lib/python3.10/site-packages/transformers/models/bert/modeling_bert.py", line 988, in forward
+    encoder_outputs = self.encoder(
+  File "/home/cs601-pwang71/.conda/envs/ml_final/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/cs601-pwang71/.conda/envs/ml_final/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/cs601-pwang71/.conda/envs/ml_final/lib/python3.10/site-packages/transformers/models/bert/modeling_bert.py", line 582, in forward
+    layer_outputs = layer_module(
+  File "/home/cs601-pwang71/.conda/envs/ml_final/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/cs601-pwang71/.conda/envs/ml_final/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/cs601-pwang71/.conda/envs/ml_final/lib/python3.10/site-packages/transformers/models/bert/modeling_bert.py", line 472, in forward
+    self_attention_outputs = self.attention(
+  File "/home/cs601-pwang71/.conda/envs/ml_final/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/cs601-pwang71/.conda/envs/ml_final/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/cs601-pwang71/.conda/envs/ml_final/lib/python3.10/site-packages/transformers/models/bert/modeling_bert.py", line 402, in forward
+    self_outputs = self.self(
+  File "/home/cs601-pwang71/.conda/envs/ml_final/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/cs601-pwang71/.conda/envs/ml_final/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/cs601-pwang71/.conda/envs/ml_final/lib/python3.10/site-packages/transformers/models/bert/modeling_bert.py", line 324, in forward
+    attention_scores = attention_scores / math.sqrt(self.attention_head_size)
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 384.00 MiB. GPU 0 has a total capacty of 9.50 GiB of which 114.00 MiB is free. Including non-PyTorch memory, this process has 9.37 GiB memory in use. Of the allocated memory 9.22 GiB is allocated by PyTorch, and 57.29 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF

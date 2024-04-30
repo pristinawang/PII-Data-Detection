@@ -1,0 +1,113 @@
+/data/apps/linux-centos8-cascadelake/gcc-9.3.0/anaconda3-2020.07-i7qavhiohb2uwqs4eqjeefzx3kp5jqdu/etc/profile.d/conda.csh: line 1: setenv: command not found
+/data/apps/linux-centos8-cascadelake/gcc-9.3.0/anaconda3-2020.07-i7qavhiohb2uwqs4eqjeefzx3kp5jqdu/etc/profile.d/conda.csh: line 2: setenv: command not found
+/data/apps/linux-centos8-cascadelake/gcc-9.3.0/anaconda3-2020.07-i7qavhiohb2uwqs4eqjeefzx3kp5jqdu/etc/profile.d/conda.csh: line 3: setenv: command not found
+/data/apps/linux-centos8-cascadelake/gcc-9.3.0/anaconda3-2020.07-i7qavhiohb2uwqs4eqjeefzx3kp5jqdu/etc/profile.d/conda.csh: line 4: setenv: command not found
+/data/apps/linux-centos8-cascadelake/gcc-9.3.0/anaconda3-2020.07-i7qavhiohb2uwqs4eqjeefzx3kp5jqdu/etc/profile.d/conda.csh: line 34: syntax error near unexpected token `"${1}"'
+/data/apps/linux-centos8-cascadelake/gcc-9.3.0/anaconda3-2020.07-i7qavhiohb2uwqs4eqjeefzx3kp5jqdu/etc/profile.d/conda.csh: line 34: `    switch ( "${1}" )'
+Generating train split: 0 examples [00:00, ? examples/s]Generating train split: 6807 examples [00:04, 1417.61 examples/s]Generating train split: 6807 examples [00:05, 1170.25 examples/s]
+Map:   0%|          | 0/6807 [00:00<?, ? examples/s]Map:   3%|▎         | 184/6807 [00:00<00:03, 1815.74 examples/s]Map:   5%|▌         | 374/6807 [00:00<00:03, 1859.47 examples/s]Map:   8%|▊         | 573/6807 [00:00<00:03, 1910.76 examples/s]Map:  12%|█▏        | 786/6807 [00:00<00:03, 1992.59 examples/s]Map:  15%|█▍        | 993/6807 [00:00<00:02, 2018.37 examples/s]Map:  18%|█▊        | 1242/6807 [00:00<00:05, 975.03 examples/s]Map:  21%|██▏       | 1452/6807 [00:01<00:04, 1172.61 examples/s]Map:  24%|██▍       | 1665/6807 [00:01<00:03, 1365.11 examples/s]Map:  28%|██▊       | 1875/6807 [00:01<00:03, 1528.41 examples/s]Map:  31%|███       | 2097/6807 [00:01<00:03, 1212.66 examples/s]Map:  34%|███▍      | 2302/6807 [00:01<00:03, 1378.07 examples/s]Map:  37%|███▋      | 2522/6807 [00:01<00:02, 1556.36 examples/s]Map:  40%|████      | 2726/6807 [00:01<00:02, 1669.22 examples/s]Map:  43%|████▎     | 2939/6807 [00:01<00:02, 1782.86 examples/s]Map:  47%|████▋     | 3218/6807 [00:02<00:02, 1386.92 examples/s]Map:  50%|█████     | 3431/6807 [00:02<00:02, 1537.50 examples/s]Map:  54%|█████▎    | 3653/6807 [00:02<00:01, 1690.26 examples/s]Map:  57%|█████▋    | 3863/6807 [00:02<00:01, 1784.88 examples/s]Map:  60%|██████    | 4108/6807 [00:02<00:01, 1382.25 examples/s]Map:  64%|██████▎   | 4333/6807 [00:02<00:01, 1560.36 examples/s]Map:  67%|██████▋   | 4551/6807 [00:02<00:01, 1698.84 examples/s]Map:  70%|███████   | 4776/6807 [00:03<00:01, 1832.71 examples/s]Map:  73%|███████▎  | 5000/6807 [00:03<00:01, 1398.62 examples/s]Map:  77%|███████▋  | 5220/6807 [00:03<00:01, 1564.27 examples/s]Map:  80%|████████  | 5447/6807 [00:03<00:00, 1724.97 examples/s]Map:  83%|████████▎ | 5672/6807 [00:03<00:00, 1851.86 examples/s]Map:  87%|████████▋ | 5907/6807 [00:03<00:00, 1978.38 examples/s]Map:  91%|█████████▏| 6212/6807 [00:04<00:00, 1492.14 examples/s]Map:  95%|█████████▍| 6437/6807 [00:04<00:00, 1643.30 examples/s]Map:  98%|█████████▊| 6664/6807 [00:04<00:00, 1781.32 examples/s]Map: 100%|██████████| 6807/6807 [00:05<00:00, 1261.40 examples/s]
+Map:   0%|          | 0/6807 [00:00<?, ? examples/s]Map:  15%|█▍        | 1000/6807 [00:02<00:13, 432.87 examples/s]Map:  29%|██▉       | 2000/6807 [00:04<00:10, 469.47 examples/s]Map:  44%|████▍     | 3000/6807 [00:06<00:07, 478.08 examples/s]Map:  59%|█████▉    | 4000/6807 [00:08<00:05, 488.37 examples/s]Map:  73%|███████▎  | 5000/6807 [00:10<00:03, 484.67 examples/s]Map:  88%|████████▊ | 6000/6807 [00:12<00:01, 496.73 examples/s]Map: 100%|██████████| 6807/6807 [00:13<00:00, 501.76 examples/s]Map: 100%|██████████| 6807/6807 [00:14<00:00, 454.19 examples/s]
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Using cuda
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+ >>>>>>>>  Initializing optimizer
+Epoch 1 training:
+0it [00:00, ?it/s]1it [00:02,  2.72s/it]2it [00:04,  1.88s/it]3it [00:05,  1.61s/it]4it [00:06,  1.49s/it]5it [00:07,  1.41s/it]6it [00:09,  1.37s/it]7it [00:10,  1.34s/it]8it [00:11,  1.32s/it]9it [00:12,  1.31s/it]10it [00:14,  1.30s/it]11it [00:15,  1.29s/it]12it [00:16,  1.29s/it]13it [00:18,  1.28s/it]14it [00:19,  1.28s/it]15it [00:20,  1.28s/it]16it [00:21,  1.28s/it]17it [00:23,  1.27s/it]18it [00:24,  1.27s/it]19it [00:25,  1.27s/it]20it [00:26,  1.27s/it]21it [00:28,  1.27s/it]22it [00:29,  1.27s/it]23it [00:30,  1.27s/it]24it [00:32,  1.27s/it]25it [00:33,  1.27s/it]26it [00:34,  1.27s/it]27it [00:35,  1.27s/it]28it [00:37,  1.27s/it]29it [00:38,  1.27s/it]30it [00:39,  1.27s/it]31it [00:40,  1.27s/it]32it [00:42,  1.27s/it]33it [00:43,  1.27s/it]34it [00:44,  1.27s/it]35it [00:46,  1.27s/it]36it [00:47,  1.27s/it]37it [00:48,  1.27s/it]38it [00:49,  1.27s/it]39it [00:51,  1.27s/it]40it [00:52,  1.27s/it]41it [00:53,  1.27s/it]42it [00:54,  1.27s/it]43it [00:56,  1.27s/it]44it [00:57,  1.27s/it]45it [00:58,  1.27s/it]46it [00:59,  1.27s/it]47it [01:01,  1.27s/it]48it [01:02,  1.27s/it]49it [01:03,  1.27s/it]50it [01:05,  1.27s/it]51it [01:06,  1.27s/it]52it [01:07,  1.27s/it]53it [01:08,  1.26s/it]54it [01:10,  1.27s/it]55it [01:11,  1.27s/it]56it [01:12,  1.27s/it]57it [01:13,  1.26s/it]58it [01:15,  1.26s/it]59it [01:16,  1.26s/it]60it [01:17,  1.26s/it]61it [01:18,  1.26s/it]62it [01:20,  1.26s/it]63it [01:21,  1.26s/it]64it [01:22,  1.26s/it]65it [01:23,  1.26s/it]66it [01:25,  1.26s/it]67it [01:26,  1.26s/it]68it [01:27,  1.26s/it]69it [01:29,  1.26s/it]70it [01:30,  1.26s/it]71it [01:31,  1.26s/it]72it [01:32,  1.26s/it]73it [01:34,  1.26s/it]74it [01:35,  1.26s/it]75it [01:36,  1.26s/it]76it [01:37,  1.26s/it]77it [01:39,  1.26s/it]78it [01:40,  1.26s/it]79it [01:41,  1.26s/it]80it [01:42,  1.26s/it]81it [01:44,  1.26s/it]82it [01:45,  1.26s/it]83it [01:46,  1.26s/it]84it [01:47,  1.26s/it]85it [01:49,  1.26s/it]86it [01:50,  1.26s/it]87it [01:51,  1.26s/it]88it [01:53,  1.26s/it]89it [01:54,  1.26s/it]90it [01:55,  1.26s/it]91it [01:56,  1.26s/it]92it [01:58,  1.26s/it]93it [01:59,  1.26s/it]94it [02:00,  1.26s/it]95it [02:01,  1.26s/it]96it [02:03,  1.26s/it]97it [02:04,  1.26s/it]98it [02:05,  1.26s/it]99it [02:06,  1.26s/it]100it [02:08,  1.26s/it]101it [02:09,  1.26s/it]102it [02:10,  1.26s/it]103it [02:11,  1.26s/it]104it [02:13,  1.26s/it]105it [02:14,  1.26s/it]106it [02:15,  1.26s/it]107it [02:17,  1.26s/it]108it [02:18,  1.26s/it]109it [02:19,  1.26s/it]110it [02:20,  1.26s/it]111it [02:22,  1.26s/it]112it [02:23,  1.26s/it]113it [02:24,  1.26s/it]114it [02:25,  1.26s/it]115it [02:27,  1.26s/it]116it [02:28,  1.26s/it]117it [02:29,  1.26s/it]118it [02:30,  1.26s/it]119it [02:32,  1.26s/it]120it [02:33,  1.26s/it]121it [02:34,  1.26s/it]122it [02:36,  1.26s/it]123it [02:37,  1.26s/it]124it [02:38,  1.26s/it]125it [02:39,  1.26s/it]126it [02:41,  1.26s/it]127it [02:42,  1.26s/it]128it [02:43,  1.26s/it]129it [02:44,  1.26s/it]130it [02:46,  1.26s/it]131it [02:47,  1.26s/it]132it [02:48,  1.26s/it]133it [02:49,  1.26s/it]134it [02:51,  1.26s/it]135it [02:52,  1.26s/it]136it [02:53,  1.26s/it]137it [02:54,  1.26s/it]138it [02:56,  1.26s/it]139it [02:57,  1.26s/it]140it [02:58,  1.26s/it]141it [03:00,  1.26s/it]142it [03:01,  1.26s/it]143it [03:02,  1.26s/it]144it [03:03,  1.26s/it]145it [03:05,  1.26s/it]146it [03:06,  1.26s/it]147it [03:07,  1.26s/it]148it [03:08,  1.26s/it]149it [03:10,  1.26s/it]150it [03:11,  1.26s/it]151it [03:12,  1.26s/it]152it [03:13,  1.26s/it]153it [03:15,  1.26s/it]154it [03:16,  1.26s/it]155it [03:17,  1.26s/it]156it [03:18,  1.26s/it]157it [03:20,  1.26s/it]158it [03:21,  1.26s/it]159it [03:22,  1.26s/it]160it [03:24,  1.26s/it]161it [03:25,  1.26s/it]162it [03:26,  1.26s/it]163it [03:27,  1.26s/it]164it [03:29,  1.26s/it]165it [03:30,  1.26s/it]166it [03:31,  1.26s/it]167it [03:32,  1.26s/it]168it [03:34,  1.26s/it]169it [03:35,  1.26s/it]170it [03:36,  1.26s/it]171it [03:37,  1.26s/it]172it [03:39,  1.26s/it]173it [03:40,  1.26s/it]174it [03:41,  1.26s/it]175it [03:42,  1.26s/it]176it [03:44,  1.26s/it]177it [03:45,  1.26s/it]178it [03:46,  1.26s/it]179it [03:48,  1.26s/it]180it [03:49,  1.26s/it]181it [03:50,  1.26s/it]182it [03:51,  1.26s/it]183it [03:53,  1.26s/it]184it [03:54,  1.26s/it]185it [03:55,  1.26s/it]186it [03:56,  1.26s/it]187it [03:58,  1.26s/it]188it [03:59,  1.26s/it]189it [04:00,  1.26s/it]190it [04:01,  1.26s/it]191it [04:03,  1.26s/it]192it [04:04,  1.26s/it]193it [04:05,  1.26s/it]194it [04:06,  1.26s/it]195it [04:08,  1.26s/it]196it [04:09,  1.26s/it]197it [04:10,  1.26s/it]198it [04:12,  1.26s/it]199it [04:13,  1.26s/it]200it [04:14,  1.26s/it]201it [04:15,  1.26s/it]202it [04:17,  1.26s/it]203it [04:18,  1.26s/it]204it [04:19,  1.26s/it]205it [04:20,  1.26s/it]206it [04:22,  1.26s/it]207it [04:23,  1.26s/it]208it [04:24,  1.26s/it]209it [04:25,  1.26s/it]210it [04:27,  1.26s/it]211it [04:28,  1.26s/it]212it [04:29,  1.26s/it]213it [04:31,  1.26s/it]214it [04:32,  1.26s/it]215it [04:33,  1.26s/it]216it [04:34,  1.26s/it]217it [04:36,  1.26s/it]218it [04:37,  1.26s/it]219it [04:38,  1.26s/it]220it [04:39,  1.26s/it]221it [04:41,  1.26s/it]222it [04:42,  1.26s/it]223it [04:43,  1.26s/it]224it [04:44,  1.26s/it]225it [04:46,  1.26s/it]226it [04:47,  1.26s/it]227it [04:48,  1.26s/it]228it [04:49,  1.26s/it]229it [04:51,  1.26s/it]230it [04:52,  1.26s/it]231it [04:53,  1.26s/it]232it [04:55,  1.26s/it]233it [04:56,  1.26s/it]234it [04:57,  1.26s/it]235it [04:58,  1.26s/it]236it [05:00,  1.26s/it]237it [05:01,  1.26s/it]238it [05:02,  1.26s/it]239it [05:03,  1.26s/it]240it [05:05,  1.26s/it]241it [05:06,  1.26s/it]242it [05:07,  1.26s/it]243it [05:08,  1.26s/it]244it [05:10,  1.26s/it]245it [05:11,  1.26s/it]246it [05:12,  1.26s/it]247it [05:13,  1.26s/it]248it [05:15,  1.26s/it]249it [05:16,  1.26s/it]250it [05:17,  1.26s/it]251it [05:19,  1.26s/it]252it [05:20,  1.26s/it]253it [05:21,  1.26s/it]254it [05:22,  1.26s/it]255it [05:24,  1.26s/it]256it [05:25,  1.26s/it]257it [05:26,  1.26s/it]258it [05:27,  1.26s/it]259it [05:29,  1.26s/it]260it [05:30,  1.26s/it]261it [05:31,  1.26s/it]262it [05:32,  1.26s/it]263it [05:34,  1.26s/it]264it [05:35,  1.26s/it]265it [05:36,  1.26s/it]266it [05:37,  1.26s/it]267it [05:39,  1.26s/it]268it [05:40,  1.26s/it]269it [05:41,  1.26s/it]270it [05:43,  1.26s/it]271it [05:44,  1.26s/it]272it [05:45,  1.26s/it]273it [05:46,  1.26s/it]274it [05:48,  1.26s/it]275it [05:49,  1.26s/it]276it [05:50,  1.26s/it]277it [05:51,  1.26s/it]278it [05:53,  1.26s/it]279it [05:54,  1.26s/it]280it [05:55,  1.26s/it]281it [05:56,  1.26s/it]282it [05:58,  1.26s/it]283it [05:59,  1.26s/it]284it [06:00,  1.26s/it]285it [06:01,  1.26s/it]286it [06:03,  1.26s/it]287it [06:04,  1.26s/it]288it [06:05,  1.26s/it]289it [06:07,  1.26s/it]290it [06:08,  1.26s/it]291it [06:09,  1.26s/it]292it [06:10,  1.26s/it]slurmstepd: error: *** JOB 11797412 ON gpuz01 CANCELLED AT 2024-04-26T11:41:21 ***
